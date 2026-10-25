@@ -1,0 +1,10 @@
+#menu {
+    display: none;
+}
+#menu.open {
+    display: block;
+}
+#menu a {
+    display: block;
+    padding: 8px;
+}
